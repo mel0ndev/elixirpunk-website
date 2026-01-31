@@ -44,7 +44,7 @@ export default function Home() {
             Elixirpunk
           </h1>
           <p className="text-[45px] leading-tight text-[#E0B77E]/70">
-            You're early. I like that.
+            You&apos;re early. I like that.
           </p>
           <p className="text-[45px] leading-tight text-[#E0B77E]/70">
             Sign up to receive updates about the game.
