@@ -41,7 +41,7 @@ export default function Home() {
       <main className="flex w-full max-w-4xl flex-col items-center gap-12 text-center">
         <div className="flex flex-col items-center gap-2">
           <h1 className="text-[120px] leading-none tracking-wide text-[#E0B77E] sm:text-[150px]">
-            Elixirpunk
+            Elixir Punk
           </h1>
           <p className="text-[45px] leading-tight text-[#E0B77E]/70">
             You&apos;re early. I like that.
